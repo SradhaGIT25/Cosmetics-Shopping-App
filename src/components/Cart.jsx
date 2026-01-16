@@ -39,5 +39,3 @@ export default function Cart(){
 }
 
 
-// storing in local storage
-// adding total cost

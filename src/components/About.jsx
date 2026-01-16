@@ -20,11 +20,3 @@ export default function About(){
     )
 }
 
-// Visual Style Guide for the Page
-// To match your logo's aesthetic, I recommend the following web design elements:
-
-// Background: Use a soft Cream or Off-White (#FFFBF2) background to make the text readable and luxurious.
-
-// Typography: Use a clean, modern Sans-Serif (like Montserrat or Lato) for the body text, and a graceful Serif (like Playfair Display) for the headings.
-
-// Accents: Use Gold (#D4AF37) for buttons or dividers and Blush Pink (#FADADD) for icons or hover effects.
