@@ -17,7 +17,7 @@ export default function Products(){
     useEffect(()=>{
         async function fetchProducts(){
             setLoading(true);
-            let url="http://makeup-api.herokuapp.com/api/v1/products.json";
+            let url="https://makeup-api.herokuapp.com/api/v1/products.json";
             if(product_type){
                 url+=`?product_type=${product_type}`;
             }
